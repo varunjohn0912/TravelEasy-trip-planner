@@ -163,12 +163,12 @@ header .search-bar-container label:hover{
   padding:1.5rem 2rem;
   border-radius: .5rem;
   background: var(--orange);
-  width:25rem;
+  width:20rem;
 }
 
 .login-form-container form h3{
   font-size: 3rem;
-  color: white;
+  color: #f7f7f7;
   text-transform: uppercase;
   text-align: center;
   padding:1rem 0;
